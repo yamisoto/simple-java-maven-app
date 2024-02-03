@@ -14,6 +14,7 @@ you'll be creating yourself during the tutorial and the `jenkins/scripts` subdir
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 #  how are you fine thank youn to god be the glory
+# WE ARE WINNING
 ---- 
 
 
