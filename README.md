@@ -19,7 +19,7 @@ the "Deliver" stage of your Pipeline.
 
 
 SMTP Details from Gmail
-		○ smtp server : smtp.gmail.com
+		○ smtp server : smtp.gmail.com   {working)
 		○ default user email suffix : @gmail.com
 		○ username : (Your gmail id)
 		○ password : (application specific password generated from previous step)
